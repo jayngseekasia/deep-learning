@@ -1,5 +1,5 @@
 *.pickle
 *.gz
-ex1/notMNIST_large
-ex1/notMNIST_small
+notMNIST_large
+notMNIST_small
 .ipynb_checkpoints
